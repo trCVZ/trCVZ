@@ -1,4 +1,4 @@
-## Works
+## About Me
 
 - 💻 I’m currently working on a [dashboard](https://github.com/trCVZ/dashboard).
 
