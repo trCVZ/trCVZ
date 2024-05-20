@@ -1,6 +1,6 @@
 ## About Me
 
-- 💻 I’m currently working on a [dashboard](https://github.com/trCVZ/dashboard).
+- 💻 I’m currently working on a [dashboard](https://github.com/trCVZ/dashboard) and my own portfolio.
 
 - 🤝 I am looking for an apprenticeship for my third year of bachelor's degree.
 
